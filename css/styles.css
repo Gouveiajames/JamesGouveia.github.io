@@ -1,0 +1,146 @@
+body {
+  text-align: center;
+}
+
+/* navbar Section */
+
+.navbar-brand {
+  font-family: 'Nova Mono', monospace;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.header {
+  background-color: #34495e;
+}
+
+/* Title section */
+
+.title {
+  background-color: #aacfd0;
+  padding-bottom: 11%;
+}
+
+.title-image {
+  position: relative;
+  top: 160px;
+  right: 65px;
+
+  width: 60%;
+  border-radius: 25%;
+}
+
+.big-heading {
+  color: #fff;
+  font-size: 2rem;
+  padding: 20% 6% 5% 10%;
+}
+
+.emphasize-heading {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.title-paragraph {
+  color: #fff;
+  width: 55%;
+  margin-left: 27%;
+
+}
+
+/* focus section */
+
+.focus {
+  padding: 8% 10%;
+}
+
+.icon {
+  color: #5da0a2;
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.focus-paragraph {
+  color: #818181;
+  padding: 5%;
+}
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #aacfd0;
+}
+
+.testimonial-text {
+  color: #fff;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  padding: 5% 20% 1% 20%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+/* About Coach Brown */
+
+.about-header {
+  padding: 10% 20% 2% 30%;
+}
+
+.about-list {
+  margin-left: 10%;
+}
+
+.about-paragraph{
+  padding: 0 20%;
+  position: relative;
+  left: 7%
+  /* margin: 5% 20% */
+}
+
+.about-image {
+  width: 50%;
+  border-radius: 100%;
+  margin-top: 18%;
+  margin-right: 30%;
+  position: relative;
+}
+
+/* Pricing section */
+
+#pricing {
+  background-color: #aacfd0;
+  padding: 2% 1%;
+  margin-top: 5%;
+}
+
+/* Contact section */
+
+.contact-header {
+  padding-top: 5%;
+}
+
+.phone-number {
+  padding-top: 5%;
+}
+
+.quote {
+  padding: 7% 10% 1% 10%;
+}
+
+.contact-image {
+  width: 75%;
+  padding-top: 15%;
+  margin-right: 25%;
+  /* border-radius: 25%; */
+}
+
+/* Footer section */
+
+.copyright {
+  background-color: #34495e;
+  padding: 1.25% 0;
+}
